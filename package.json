@@ -1,0 +1,22 @@
+{
+  "name": "firstopenproject",
+  "version": "1.0.0",
+  "description": "First npm publish project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak1984github/firstopenrepo.git"
+  },
+  "keywords": [
+    "firstopenproject"
+  ],
+  "author": "alok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak1984github/firstopenrepo/issues"
+  },
+  "homepage": "https://github.com/ak1984github/firstopenrepo#readme"
+}
