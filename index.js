@@ -1,4 +1,6 @@
+
+const sum = 0;
 function showMessage(a, b) {
-   return a+b;
+   sum = a+b;
   }
-module.exports = {showMessage};
+module.exports = {sum};
