@@ -1,4 +1,4 @@
-function showMessage(){
-    return "say hello";
-}
-export default showMessage;
+function showMessage(a, b) {
+    console.log(a + b);
+  }
+module.exports = showMessage;
