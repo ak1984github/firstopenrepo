@@ -1,6 +1,6 @@
 
 const sum = 0;
-function showMessage() {
-   sum = 10+20;
+function showMessage(a,b) {
+   sum = a+b;
   }
-module.exports = {sum};
+module.exports = {sum,showMessage};
