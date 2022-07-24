@@ -2,6 +2,8 @@
 let sum = 0;
 function showMessage(a,b) {
    sum = a+b;
- //  console.log(sum);
+   console.log(sum);
+   return a+b;
+
   }
-module.exports = {sum,showMessage};
+module.exports.showMessage = {showMessage};
